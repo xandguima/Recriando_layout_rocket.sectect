@@ -1,5 +1,5 @@
 # Recriando_layout_rocket.sectect
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Rocket.sect </h1>
 
 <p align="center">
 Projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -29,13 +29,12 @@ Projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 - Figma
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O Rocket.sect é uma pagina web para a empresa rocket.sect voltada a ssegurança e tecnologia.
 
 - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
 
@@ -43,7 +42,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [Rocket.sect](https://www.figma.com/file/gDZm7wg9AnNzloBqRVfTQd/Explorer-(Copy)?type=design&node-id=16%3A107&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
